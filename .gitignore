@@ -115,3 +115,9 @@ share/BitcoindComparisonTool.jar
 
 libbitcoinconsensus.pc
 contrib/devtools/split-debug.sh
+
+
+# PhpStorm-Project
+/.idea/
+
+driveme/db_config.php
